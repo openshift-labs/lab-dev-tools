@@ -1,4 +1,3 @@
-LAB - AsciiDoc Sample
+OpenShift 4 Developer Tools and Services
 =====================
 
-Sample workshop content using AsciiDoc formatting for pages.
